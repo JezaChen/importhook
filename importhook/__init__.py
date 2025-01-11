@@ -16,7 +16,6 @@ Python module for registering hooks to call when certain modules are imported.
     # Import the `socket` module
     import socket
 """
-import functools
 import importlib
 import sys
 import types
